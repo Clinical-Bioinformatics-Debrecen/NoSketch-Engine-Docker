@@ -269,3 +269,11 @@ The following files in this repository are from https://nlp.fi.muni.cz/trac/nosk
 - Susanne sample corpus: `data/corpora/susanne/vertical` and `data/registry/susanne`
 
 The rest of the files are licensed under the Lesser GNU GPL version 3 or any later.
+
+## Acknowledgements
+
+The authors acknowledge the support of the National Laboratory for Digital
+Heritage. Project no. 2022-2.1.1-NL-2022-00009 has been implemented with the
+support provided by the Ministry of Culture and Innovation of Hungary from the
+National Research, Development and Innovation Fund, financed under the
+2022-2.1.1-NL funding scheme.
