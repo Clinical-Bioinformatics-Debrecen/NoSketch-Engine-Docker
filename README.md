@@ -4,17 +4,19 @@ This is a fork of https://github.com/Clinical-Bioinformatics-Debrecen/NoSketch-E
 
 See all documentation in the original repository's README.
 
-The content of this fork differs in two ways from the original:
+The content of this fork differs in the following ways from the original repository:
 - `make compile` was executed, the `corpus` subdirectory thus contains a compiled corpus,
+- the corpora and compiled copora sections were removed from `.gitignore`
 - the README was replaced by this.
 
 ## To run a NoSketchEngine server:
 1. Install Docker if you don't have it already.
 2. Run the following from the command line:
 ```
-docker run -d --rm --name noske -p8080:80 --mount type=bind,src=.\corpora,dst=/corpora
+docker run -d --rm --name noske -p8080:80 --mount type=bind,src=".\corpora",dst=/corpora eltedh/nosketch-engine:latest
 ```
-Replace $(PORT) by the actual port number on which you want to access the NoSketchEngine server on the host machine.
+- Replace "-p8080" by the actual port number on which you want to access the NoSketchEngine server on the host machine.
+- Replcae ".\corpora" by the absolute path of the corpora subdirectory of this directory
 
 # To stop the NoSketchEngine server:
 ```
