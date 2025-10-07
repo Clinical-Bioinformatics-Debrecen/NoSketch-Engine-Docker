@@ -1,0 +1,230 @@
+Manatee version: open-2.225.8
+Reading corpus configuration...
+PATH=/corpora/emagyardemo/indexed/
+VERTICAL=/corpora/emagyardemo/vertical/source
+WSDEF=
+WSHIST=
+SUBCDEF=
+WSBASE=
+WSATTR=
+WSTHES=
+WSMINHITS=
+WSOLDSCORES=
+ALIGNDEF=
+ALIGNED=
+TERMDEF=
+TERMBASE=
+REFCORPUS=
+ATTRLIST=word,wsafter,anas,lemma,xpostag,upostag,feats,id,deprel,head,npbio,nerbio,lc,lemma_lc
+DIACHRONIC=
+DIAPOSATTRS=
+SUBCBASE=/corpora/emagyardemo/indexed/subcorp/
+Vertical text will be read from /corpora/emagyardemo/vertical/source
+Deleting corpus PATH directory...
+Compiling corpus...
+[20251007-11:35:04] Available memory 64327MB, estimated usage 576MB
+[20251007-11:35:05] Reading input file finished.
+[20251007-11:35:05] Closing structure doc ...
+[20251007-11:35:05] warning: structure attribute (doc.wordcount) never present
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/doc.file) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/doc.n) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/doc.wordcount) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing structure s ...
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/word ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/word) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/wsafter ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/wsafter) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/anas ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/anas) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/lemma ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/lemma) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/xpostag ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/xpostag) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/upostag ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/upostag) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/feats ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/feats) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/id ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/id) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/deprel ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/deprel) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/head ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/head) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/npbio ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/npbio) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Closing attribute /corpora/emagyardemo/indexed/nerbio ...
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/nerbio) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05]             ... finished.
+[20251007-11:35:05] Processed 55 lines, 39 positions.
+[20251007-11:35:05] Creating dynamic attribute lc
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/lc) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] Creating regular expression optimization attribute lc
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/lc.regex) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] Creating dynamic attribute lemma_lc
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/lemma_lc) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] Creating regular expression optimization attribute lemma_lc
+[20251007-11:35:05] lexicon (/corpora/emagyardemo/indexed/lemma_lc.regex) writing FSA...
+[20251007-11:35:05] Writing FSA finished
+[20251007-11:35:05] Summary of errors encountered in the input file:
+[20251007-11:35:05] Only first 100 occurrences emitted, use -v to emit each occurrence.
+Compiling frequencies...
+Compiling arf for attribute word
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute word
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute word
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute wsafter
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute wsafter
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute wsafter
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute anas
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute anas
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute anas
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute lemma
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute lemma
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute lemma
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute xpostag
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute xpostag
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute xpostag
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute upostag
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute upostag
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute upostag
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute feats
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute feats
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute feats
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute id
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute id
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute id
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute deprel
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute deprel
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute deprel
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute head
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute head
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute head
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute npbio
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute npbio
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute npbio
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute nerbio
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute nerbio
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute nerbio
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute lc
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute lc
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute lc
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling arf for attribute lemma_lc
+frq already compiled, skipping.
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling docf for attribute lemma_lc
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling aldf for attribute lemma_lc
+0 %2 %5 %7 %10 %12 %15 %17 %20 %23 %25 %28 %30 %33 %35 %38 %41 %43 %46 %48 %51 %53 %56 %58 %61 %64 %66 %69 %71 %74 %76 %79 %82 %84 %87 %89 %92 %94 %97 %100 %
+Compiling structure coverage...
+[20251007-11:35:06] mktokencov: opening corpus /corpora/registry/emagyardemo
+[20251007-11:35:06] mktokencov: output prefix is /corpora/emagyardemo/indexed/
+[20251007-11:35:06] mktokencov: preparing /corpora/emagyardemo/indexed/doc.file.token
+[20251007-11:35:06] mktokencov: preparing /corpora/emagyardemo/indexed/doc.wordcount.token
+[20251007-11:35:06] mktokencov: preparing /corpora/emagyardemo/indexed/doc.n.token
+[20251007-11:35:06] mktokencov: calculating token coverage for doc
+[20251007-11:35:06] mktokencov: writing token coverage for doc
+[20251007-11:35:06] mktokencov: finished writing token coverage for doc
+[20251007-11:35:06] mktokencov: skipping token coverage calculation for structure s without attributes
+No parallel corpora specified in ALIGNED; skipping alignment size computations...
+Sizes compiled
+SUBCDEF path not specified in the configuration file; skipping subcorpora...
+Compiling word sketches disabled; skipping...
+Compiling longest commonest match disabled; skipping...
+Compiling terms disabled; skipping...
+Compiling thesaurus disabled; skipping...
+Compiling histograms disabled; skipping...
+No parallel corpora specified in ALIGNED; skipping alignment...
+Compiling bilingual dictionaries disabled; skipping...
+Compiling bilingual terminology disabled; skipping...
+Compiling trends disabled; skipping...
+Checking corpus /corpora/registry/emagyardemo:
+ * registry file
+WARNING: wordcount attribute of DOCSTRUCTURE is not necessary anymore
+WARNING: INFOHREF seems to be a broken link
+ * lexicon queries
+ * dynamic attributes
+ * word sketches
+ * sizes
+ * structure sanity
