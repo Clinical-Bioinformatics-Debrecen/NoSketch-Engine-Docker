@@ -1,0 +1,1116 @@
+<doc file="pg19000">
+<p>
+<s>
+Copyright	' '	copyright	NOUN	NN	Number=Sing	1	0	root	Copyright	O
+(	''	(	PUNCT	-LRB-	_	2	3	punct	(	O
+C	''	C	PROPN	NNP	Number=Sing	3	1	appos	C	O
+)	' '	)	PUNCT	-RRB-	_	4	3	punct	)	O
+2006	' '	2006	NUM	CD	NumForm=Digit|NumType=Card	5	3	nummod	2006	S-DATE
+by	' '	by	ADP	IN	_	6	7	case	by	O
+Cory	' '	Cory	PROPN	NNP	Number=Sing	7	1	nmod	Cory	B-PERSON
+Doctorow	''	Doctorow	PROPN	NNP	Number=Sing	8	7	flat	Doctorow	E-PERSON
+.	''	.	PUNCT	.	_	9	1	punct	.	O
+</s>
+</p>
+<p>
+<s>
+Printcrime	''	Printcrime	PROPN	NNP	Number=Sing	1	0	root	Printcrime	O
+</s>
+</p>
+<p>
+<s>
+(	''	(	PUNCT	-LRB-	_	1	3	punct	(	O
+originally	' '	originally	ADV	RB	_	2	3	advmod	originally	O
+published	' '	publish	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	0	root	published	O
+in	' '	in	ADP	IN	_	4	6	case	in	O
+Nature	' '	Nature	PROPN	NNP	Number=Sing	5	6	compound	Nature	B-WORK_OF_ART
+Magazine	''	Magazine	PROPN	NNP	Number=Sing	6	3	obl	Magazine	E-WORK_OF_ART
+,	' '	,	PUNCT	,	_	7	8	punct	,	O
+January	' '	January	PROPN	NNP	Number=Sing	8	6	appos	January	B-DATE
+2006	''	2006	NUM	CD	NumForm=Digit|NumType=Card	9	8	nummod	2006	E-DATE
+)	''	)	PUNCT	-RRB-	_	10	3	punct	)	O
+</s>
+</p>
+<p>
+<s>
+Cory	' '	Cory	PROPN	NNP	Number=Sing	1	0	root	Cory	B-PERSON
+Doctorow	''	Doctorow	PROPN	NNP	Number=Sing	2	1	flat	Doctorow	E-PERSON
+</s>
+</p>
+<p>
+<s>
+The	' '	the	DET	DT	Definite=Def|PronType=Art	1	2	det	The	O
+coppers	' '	copper	NOUN	NNS	Number=Plur	2	3	nsubj	coppers	O
+smashed	' '	smash	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	0	root	smashed	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	5	nmod:poss	my	O
+father	''	father	NOUN	NN	Number=Sing	5	7	nmod:poss	father's	O
+'s	' '	's	PART	POS	_	6	5	case	father's	O
+printer	' '	printer	NOUN	NN	Number=Sing	7	3	obj	printer	O
+when	' '	when	ADV	WRB	PronType=Int	8	11	advmod	when	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	11	nsubj	I	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	11	cop	was	O
+eight	''	eight	NUM	CD	NumForm=Word|NumType=Card	11	3	advcl	eight	S-DATE
+.	'  '	.	PUNCT	.	_	12	3	punct	.	O
+</s>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	2	nsubj	I	O
+remember	' '	remember	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	0	root	remember	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	3	15	det	the	O
+hot	''	hot	ADJ	JJ	Degree=Pos	4	15	amod	hot	O
+,	' '	,	PUNCT	,	_	5	4	punct	,	O
+cling	''	cling	VERB	VB	Mood=Ind|Number=Sing|Tense=Pres|VerbForm=Fin	6	15	compound	cling	O
+-	''	-	PUNCT	HYPH	_	7	6	punct	-	O
+film	''	film	NOUN	NN	Number=Sing	8	15	compound	film	O
+-	''	-	PUNCT	HYPH	_	9	10	punct	-	O
+in	''	in	ADP	IN	_	10	14	case	in	O
+-	''	-	PUNCT	HYPH	_	11	12	punct	-	O
+a	''	a	DET	DT	Definite=Ind|PronType=Art	12	14	det	a	O
+-	''	-	PUNCT	HYPH	_	13	12	punct	-	O
+microwave	' '	microwave	NOUN	NN	Number=Sing	14	15	compound	microwave	O
+smell	' '	smell	NOUN	NN	Number=Sing	15	2	obj	smell	O
+of	' '	of	ADP	IN	_	16	17	case	of	O
+it	''	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	15	nmod	it	O
+,	' '	,	PUNCT	,	_	18	22	punct	,	O
+and	' '	and	CCONJ	CC	_	19	22	cc	and	O
+Da	''	Da	PROPN	NNP	Number=Sing	20	22	nmod:poss	Da's	O
+'s	' '	's	PART	POS	_	21	20	case	Da's	O
+look	' '	look	NOUN	NN	Number=Sing	22	15	conj	look	O
+of	' '	of	ADP	IN	_	23	25	case	of	O
+ferocious	' '	ferocious	ADJ	JJ	Degree=Pos	24	25	amod	ferocious	O
+concentration	' '	concentration	NOUN	NN	Number=Sing	25	22	nmod	concentration	O
+as	' '	as	SCONJ	IN	_	26	28	mark	as	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	28	nsubj	he	O
+filled	' '	fill	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	2	advcl	filled	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	28	obj	it	O
+with	' '	with	ADP	IN	_	30	32	case	with	O
+fresh	' '	fresh	ADJ	JJ	Degree=Pos	31	32	amod	fresh	O
+goop	''	goop	NOUN	NN	Number=Sing	32	28	obl	goop	O
+,	' '	,	PUNCT	,	_	33	34	punct	,	O
+and	' '	and	CCONJ	CC	_	34	41	cc	and	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	35	41	det	the	O
+warm	''	warm	ADJ	JJ	Degree=Pos	36	41	amod	warm	O
+,	' '	,	PUNCT	,	_	37	36	punct	,	O
+fresh	''	fresh	ADJ	JJ	Degree=Pos	38	40	amod	fresh	O
+-	''	-	PUNCT	HYPH	_	39	38	punct	-	O
+baked	' '	bake	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	40	41	amod	baked	O
+feel	' '	feel	NOUN	NN	Number=Sing	41	32	conj	feel	O
+of	' '	of	ADP	IN	_	42	44	case	of	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	43	44	det	the	O
+objects	' '	object	NOUN	NNS	Number=Plur	44	41	nmod	objects	O
+that	' '	that	PRON	WDT	PronType=Rel	45	46	nsubj	that	O
+came	' '	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	46	44	acl:relcl	came	O
+out	' '	out	ADP	IN	_	47	49	case	out	O
+of	' '	of	ADP	IN	_	48	47	fixed	of	O
+it	''	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	49	46	obl	it	O
+.	''	.	PUNCT	.	_	50	2	punct	.	O
+</s>
+</p>
+<p>
+<s>
+The	' '	the	DET	DT	Definite=Def|PronType=Art	1	2	det	The	O
+coppers	' '	copper	NOUN	NNS	Number=Plur	2	3	nsubj	coppers	O
+came	' '	come	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	0	root	came	O
+through	' '	through	ADP	IN	_	4	6	case	through	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	5	6	det	the	O
+door	' '	door	NOUN	NN	Number=Sing	6	3	obl	door	O
+with	' '	with	ADP	IN	_	7	8	case	with	O
+truncheons	' '	truncheon	NOUN	NNS	Number=Plur	8	3	obl	truncheons	O
+swinging	''	swing	VERB	VBG	VerbForm=Ger	9	8	acl	swinging	O
+,	' '	,	PUNCT	,	_	10	14	punct	,	O
+one	' '	one	NUM	CD	NumForm=Word|NumType=Card	11	14	nsubj	one	S-CARDINAL
+of	' '	of	ADP	IN	_	12	13	case	of	O
+them	' '	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	11	nmod	them	O
+reciting	' '	recit	VERB	VBG	VerbForm=Ger	14	3	advcl	reciting	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	15	16	det	the	O
+terms	' '	term	NOUN	NNS	Number=Plur	16	14	obj	terms	O
+of	' '	of	ADP	IN	_	17	19	case	of	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	18	19	det	the	O
+warrant	' '	warrant	NOUN	NN	Number=Sing	19	16	nmod	warrant	O
+through	' '	through	ADP	IN	_	20	22	case	through	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	21	22	det	a	O
+bullhorn	''	bullhorn	NOUN	NN	Number=Sing	22	14	obl	bullhorn	O
+.	'  '	.	PUNCT	.	_	23	3	punct	.	O
+</s>
+<s>
+One	' '	one	NUM	CD	NumForm=Word|NumType=Card	1	7	nsubj	One	S-CARDINAL
+of	' '	of	ADP	IN	_	2	5	case	of	O
+Da	''	Da	PROPN	NNP	Number=Sing	3	5	nmod:poss	Da's	S-ORG
+'s	' '	's	PART	POS	_	4	3	case	Da's	S-ORG
+customers	' '	customer	NOUN	NNS	Number=Plur	5	1	nmod	customers	O
+had	' '	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	7	aux	had	O
+shopped	' '	shop	VERB	VBN	Tense=Past|VerbForm=Part	7	0	root	shopped	O
+him	''	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	7	obj	him	O
+.	'  '	.	PUNCT	.	_	9	7	punct	.	O
+</s>
+<s>
+The	' '	the	DET	DT	Definite=Def|PronType=Art	1	2	det	The	O
+ipolice	' '	ipolice	NOUN	NN	Number=Sing	2	3	nsubj	ipolice	O
+paid	' '	pay	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	3	0	root	paid	O
+in	' '	in	ADP	IN	_	4	8	case	in	O
+high	''	high	ADJ	JJ	Degree=Pos	5	7	amod	high	O
+-	''	-	PUNCT	HYPH	_	6	5	punct	-	O
+grade	' '	grade	NOUN	NN	Number=Sing	7	8	compound	grade	O
+pharmaceuticals	' '	pharmaceuticall	NOUN	NNS	Number=Plur	8	3	obl	pharmaceuticals	O
+--	' '	--	PUNCT	,	_	9	11	punct	--	O
+performance	' '	performance	NOUN	NN	Number=Sing	10	11	compound	performance	O
+enhancers	''	enhancer	NOUN	NNS	Number=Plur	11	8	appos	enhancers	O
+,	' '	,	PUNCT	,	_	12	14	punct	,	O
+memory	' '	memory	NOUN	NN	Number=Sing	13	14	compound	memory	O
+supplements	''	supplement	NOUN	NNS	Number=Plur	14	11	conj	supplements	O
+,	' '	,	PUNCT	,	_	15	17	punct	,	O
+metabolic	' '	metabolic	ADJ	JJ	Degree=Pos	16	17	amod	metabolic	O
+boosters	''	booster	NOUN	NNS	Number=Plur	17	8	conj	boosters	O
+.	'  '	.	PUNCT	.	_	18	3	punct	.	O
+</s>
+<s>
+The	' '	the	DET	DT	Definite=Def|PronType=Art	1	2	det	The	O
+kind	' '	kind	NOUN	NN	Number=Sing	2	0	root	kind	O
+of	' '	of	ADP	IN	_	3	4	case	of	O
+things	' '	thing	NOUN	NNS	Number=Plur	4	2	nmod	things	O
+that	' '	that	PRON	WDT	PronType=Rel	5	6	nsubj	that	O
+cost	' '	cost	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	4	acl:relcl	cost	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	7	8	det	a	O
+fortune	' '	fortune	NOUN	NN	Number=Sing	8	6	obj	fortune	O
+over	' '	over	ADP	IN	_	9	11	case	over	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	10	11	det	the	O
+counter	''	counter	NOUN	NN	Number=Sing	11	6	obl	counter	O
+;	' '	;	PUNCT	:	_	12	14	punct	;	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	13	14	det	the	O
+kind	' '	kind	NOUN	NN	Number=Sing	14	2	conj	kind	O
+of	' '	of	ADP	IN	_	15	16	case	of	O
+things	' '	thing	NOUN	NNS	Number=Plur	16	14	nmod	things	O
+you	' '	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	19	nsubj	you	O
+could	' '	could	AUX	MD	VerbForm=Fin	18	19	aux	could	O
+print	' '	print	VERB	VB	VerbForm=Inf	19	16	acl:relcl	print	O
+at	' '	at	ADP	IN	_	20	21	case	at	O
+home	''	home	NOUN	NN	Number=Sing	21	19	obl	home	O
+,	' '	,	PUNCT	,	_	22	27	punct	,	O
+if	' '	if	SCONJ	IN	_	23	27	mark	if	O
+you	' '	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	24	27	nsubj	you	O
+did	''	do	AUX	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	25	27	aux	didn't	O
+n't	' '	not	PART	RB	Polarity=Neg	26	27	advmod	didn't	O
+mind	' '	mind	VERB	VB	VerbForm=Inf	27	14	advcl	mind	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	28	29	det	the	O
+risk	' '	risk	NOUN	NN	Number=Sing	29	27	obj	risk	O
+of	' '	of	SCONJ	IN	_	30	31	mark	of	O
+having	' '	have	VERB	VBG	VerbForm=Ger	31	29	acl	having	O
+your	' '	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	32	33	nmod:poss	your	O
+kitchen	' '	kitchen	NOUN	NN	Number=Sing	33	31	obj	kitchen	O
+filled	' '	fill	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	34	31	xcomp	filled	O
+with	' '	with	ADP	IN	_	35	38	case	with	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	36	38	det	a	O
+sudden	' '	sudden	ADJ	JJ	Degree=Pos	37	38	amod	sudden	O
+crush	' '	crush	NOUN	NN	Number=Sing	38	34	obl	crush	O
+of	' '	of	ADP	IN	_	39	43	case	of	O
+big	''	big	ADJ	JJ	Degree=Pos	40	43	amod	big	O
+,	' '	,	PUNCT	,	_	41	40	punct	,	O
+beefy	' '	beefy	ADJ	JJ	Degree=Pos	42	43	amod	beefy	O
+bodies	''	body	NOUN	NNS	Number=Plur	43	38	nmod	bodies	O
+,	' '	,	PUNCT	,	_	44	46	punct	,	O
+hard	' '	hard	ADJ	JJ	Degree=Pos	45	46	amod	hard	O
+truncheons	' '	truncheon	NOUN	NNS	Number=Plur	46	43	conj	truncheons	O
+whistling	' '	whistle	VERB	VBG	VerbForm=Ger	47	43	acl	whistling	O
+through	' '	through	ADP	IN	_	48	50	case	through	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	49	50	det	the	O
+air	''	air	NOUN	NN	Number=Sing	50	47	obl	air	O
+,	' '	,	PUNCT	,	_	51	52	punct	,	O
+smashing	' '	smash	VERB	VBG	Tense=Pres|VerbForm=Part	52	47	advcl	smashing	O
+anyone	' '	anyone	PRON	NN	Number=Sing|PronType=Ind	53	52	obj	anyone	O
+and	' '	and	CCONJ	CC	_	54	55	cc	and	O
+anything	' '	anything	PRON	NN	Number=Sing|PronType=Ind	55	53	conj	anything	O
+that	' '	that	PRON	WDT	PronType=Rel	56	57	nsubj	that	O
+got	' '	get	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	57	55	acl:relcl	got	O
+in	' '	in	ADP	IN	_	58	60	case	in	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	59	60	det	the	O
+way	''	way	NOUN	NN	Number=Sing	60	57	obl	way	O
+.	''	.	PUNCT	.	_	61	2	punct	.	O
+</s>
+</p>
+<p>
+<s>
+They	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	2	nsubj	They	O
+destroyed	' '	destroy	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	0	root	destroyed	O
+grandma	''	grandma	NOUN	NN	Number=Sing	3	5	nmod:poss	grandma's	O
+'s	' '	's	PART	POS	_	4	3	case	grandma's	O
+trunk	''	trunk	NOUN	NN	Number=Sing	5	2	obj	trunk	O
+,	' '	,	PUNCT	,	_	6	8	punct	,	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	7	8	det	the	O
+one	' '	one	NOUN	NN	Number=Sing	8	5	appos	one	S-CARDINAL
+she	''	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	11	nsubj	she'd	O
+'d	' '	would	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	11	aux	she'd	O
+brought	' '	bring	VERB	VBN	Tense=Past|VerbForm=Part	11	8	acl:relcl	brought	O
+from	' '	from	ADP	IN	_	12	15	case	from	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	13	15	det	the	O
+old	' '	old	ADJ	JJ	Degree=Pos	14	15	amod	old	O
+country	''	country	NOUN	NN	Number=Sing	15	11	obl	country	O
+.	'  '	.	PUNCT	.	_	16	2	punct	.	O
+</s>
+<s>
+They	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	2	nsubj	They	O
+smashed	' '	smash	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	0	root	smashed	O
+our	' '	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	5	nmod:poss	our	O
+little	' '	little	ADJ	JJ	Degree=Pos	4	5	amod	little	O
+refrigerator	' '	refrigerator	NOUN	NN	Number=Sing	5	2	obj	refrigerator	O
+and	' '	and	CCONJ	CC	_	6	9	cc	and	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	7	9	det	the	O
+purifier	' '	purifier	NOUN	NN	Number=Sing	8	9	compound	purifier	O
+unit	' '	unit	NOUN	NN	Number=Sing	9	5	conj	unit	O
+over	' '	over	ADP	IN	_	10	12	case	over	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	11	12	det	the	O
+window	''	window	NOUN	NN	Number=Sing	12	9	nmod	window	O
+.	'  '	.	PUNCT	.	_	13	2	punct	.	O
+</s>
+<s>
+My	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	1	2	nmod:poss	My	O
+tweetybird	' '	tweetybird	NOUN	NN	Number=Sing	2	3	nsubj	tweetybird	O
+escaped	' '	escape	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	0	root	escaped	O
+death	' '	death	NOUN	NN	Number=Sing	4	3	obj	death	O
+by	' '	by	SCONJ	IN	_	5	6	mark	by	O
+hiding	' '	hide	VERB	VBG	Tense=Pres|VerbForm=Part	6	3	advcl	hiding	O
+in	' '	in	ADP	IN	_	7	9	case	in	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	8	9	det	a	O
+corner	' '	corner	NOUN	NN	Number=Sing	9	6	obl	corner	O
+of	' '	of	ADP	IN	_	10	12	case	of	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	12	nmod:poss	his	O
+cage	' '	cage	NOUN	NN	Number=Sing	12	9	nmod	cage	O
+as	' '	as	ADP	IN	_	13	19	mark	as	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	14	18	det	a	O
+big	''	big	ADJ	JJ	Degree=Pos	15	18	amod	big	O
+,	' '	,	PUNCT	,	_	16	15	punct	,	O
+booted	' '	boot	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	18	amod	booted	O
+foot	' '	foot	NOUN	NN	Number=Sing	18	19	nsubj	foot	O
+crushed	' '	crush	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	3	advcl	crushed	O
+most	' '	most	ADJ	JJS	Degree=Sup	20	19	obj	most	O
+of	' '	of	ADP	IN	_	21	22	case	of	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	22	20	nmod	it	O
+into	' '	into	ADP	IN	_	23	26	case	into	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	24	26	det	a	O
+sad	' '	sad	ADJ	JJ	Degree=Pos	25	26	amod	sad	O
+tangle	' '	tangle	NOUN	NN	Number=Sing	26	19	obl	tangle	O
+of	' '	of	ADP	IN	_	27	30	case	of	O
+printer	''	printer	NOUN	NN	Number=Sing	28	30	compound	printer	O
+-	''	-	PUNCT	HYPH	_	29	28	punct	-	O
+wire	''	wire	NOUN	NN	Number=Sing	30	26	nmod	wire	O
+.	''	.	PUNCT	.	_	31	3	punct	.	O
+</s>
+</p>
+<p>
+<s>
+Da	''	Da	PROPN	NNP	Number=Sing	1	0	root	Da	S-PERSON
+.	'  '	.	PUNCT	.	_	2	1	punct	.	O
+</s>
+<s>
+What	' '	what	PRON	WP	PronType=Int	1	0	root	What	O
+they	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	3	nsubj	they	O
+did	' '	do	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	1	acl:relcl	did	O
+to	' '	to	ADP	IN	_	4	5	case	to	O
+him	''	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	3	obl	him	O
+.	'  '	.	PUNCT	.	_	6	1	punct	.	O
+</s>
+<s>
+When	' '	when	ADV	WRB	PronType=Int	1	4	advmod	When	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	4	nsubj:pass	he	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	4	aux:pass	was	O
+done	''	do	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	7	advcl	done	O
+,	' '	,	PUNCT	,	_	5	4	punct	,	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	7	nsubj	he	O
+looked	' '	look	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	0	root	looked	O
+like	' '	like	SCONJ	IN	_	8	12	mark	like	O
+he	''	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	12	nsubj	he'd	O
+'d	' '	would	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	12	aux	he'd	O
+been	' '	be	AUX	VBN	Tense=Past|VerbForm=Part	11	12	aux	been	O
+brawling	' '	brawl	VERB	VBG	Tense=Pres|VerbForm=Part	12	7	advcl	brawling	O
+with	' '	with	ADP	IN	_	13	17	case	with	O
+an	' '	a	DET	DT	Definite=Ind|PronType=Art	14	17	det	an	O
+entire	' '	entire	ADJ	JJ	Degree=Pos	15	17	amod	entire	O
+rugby	' '	rugby	NOUN	NN	Number=Sing	16	17	compound	rugby	O
+side	''	side	NOUN	NN	Number=Sing	17	12	obl	side	O
+.	'  '	.	PUNCT	.	_	18	7	punct	.	O
+</s>
+<s>
+They	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	2	nsubj	They	O
+brought	' '	bring	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	0	root	brought	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	2	obj	him	O
+out	' '	out	ADP	IN	_	4	6	case	out	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	5	6	det	the	O
+door	' '	door	NOUN	NN	Number=Sing	6	2	obl	door	O
+and	' '	and	CCONJ	CC	_	7	8	cc	and	O
+let	' '	let	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	2	conj	let	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	9	10	det	the	O
+newsies	' '	newsies	NOUN	NNS	Number=Plur	10	8	obj	newsies	O
+get	' '	get	VERB	VB	VerbForm=Inf	11	8	xcomp	get	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	12	14	det	a	O
+good	' '	good	ADJ	JJ	Degree=Pos	13	14	amod	good	O
+look	' '	look	NOUN	NN	Number=Sing	14	11	obj	look	O
+at	' '	at	ADP	IN	_	15	16	case	at	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	14	nmod	him	O
+as	' '	as	SCONJ	IN	_	17	19	mark	as	O
+they	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	19	nsubj	they	O
+tossed	' '	toss	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	11	advcl	tossed	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	19	obj	him	O
+in	' '	in	ADP	IN	_	21	23	case	in	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	22	23	det	the	O
+car	''	car	NOUN	NN	Number=Sing	23	19	obl	car	O
+.	' '	.	PUNCT	.	_	24	2	punct	.	O
+</s>
+<s>
+All	' '	all	DET	PDT	PronType=Tot	1	5	det:predet	All	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	2	6	reparandum	the	O
+while	' '	while	SCONJ	IN	_	3	6	mark	while	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	4	5	det	a	O
+spokesman	' '	spokesman	NOUN	NN	Number=Sing	5	6	nsubj	spokesman	O
+told	' '	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	0	root	told	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	7	8	det	the	O
+world	' '	world	NOUN	NN	Number=Sing	8	6	iobj	world	O
+that	' '	that	SCONJ	IN	_	9	20	mark	that	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	11	nmod:poss	my	O
+Da	''	Da	PROPN	NNP	Number=Sing	11	17	nmod:poss	Da's	O
+'s	' '	's	PART	POS	_	12	11	case	Da's	O
+organized	''	organize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	15	amod	organized	O
+-	''	-	PUNCT	HYPH	_	14	13	punct	-	O
+crime	' '	crime	NOUN	NN	Number=Sing	15	17	compound	crime	O
+bootlegging	' '	bootlegging	NOUN	NN	Number=Sing	16	17	compound	bootlegging	O
+operation	' '	operation	NOUN	NN	Number=Sing	17	20	nsubj	operation	O
+had	' '	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	20	aux	had	O
+been	' '	be	AUX	VBN	Tense=Past|VerbForm=Part	19	20	cop	been	O
+responsible	' '	responsible	ADJ	JJ	Degree=Pos	20	6	ccomp	responsible	O
+for	' '	for	ADP	IN	_	21	25	case	for	O
+at	' '	at	ADP	IN	_	22	23	case	at	B-CARDINAL
+least	' '	least	ADJ	JJS	Degree=Sup	23	24	nmod	least	I-CARDINAL
+20	' '	20	NUM	CD	NumForm=Digit|NumType=Card	24	25	compound	20	I-CARDINAL
+million	' '	million	NUM	CD	NumForm=Word|NumType=Card	25	20	obl	million	E-CARDINAL
+in	' '	in	ADP	IN	_	26	27	case	in	O
+contraband	''	contraband	NOUN	NN	Number=Sing	27	20	obl	contraband	O
+,	' '	,	PUNCT	,	_	28	39	punct	,	O
+and	' '	and	CCONJ	CC	_	29	39	cc	and	O
+that	' '	that	SCONJ	IN	_	30	39	mark	that	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	31	32	nmod:poss	my	O
+Da	''	Da	PROPN	NNP	Number=Sing	32	39	nsubj	Da	S-PERSON
+,	' '	,	PUNCT	,	_	33	36	punct	,	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	34	36	det	the	O
+desperate	' '	desperate	ADJ	JJ	Degree=Pos	35	36	amod	desperate	O
+villain	''	villain	NOUN	NN	Number=Sing	36	32	appos	villain	O
+,	' '	,	PUNCT	,	_	37	32	punct	,	O
+had	' '	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	39	aux	had	O
+resisted	' '	resist	VERB	VBN	Tense=Past|VerbForm=Part	39	20	conj	resisted	O
+arrest	''	arrest	NOUN	NN	Number=Sing	40	39	obj	arrest	O
+.	''	.	PUNCT	.	_	41	6	punct	.	O
+</s>
+</p>
+<p>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	2	nsubj	I	O
+saw	' '	see	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	0	root	saw	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	2	obj	it	O
+all	' '	all	DET	DT	PronType=Tot	4	3	det	all	O
+from	' '	from	ADP	IN	_	5	7	case	from	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	7	nmod:poss	my	O
+phone	''	phone	NOUN	NN	Number=Sing	7	2	obl	phone	O
+,	' '	,	PUNCT	,	_	8	11	punct	,	O
+in	' '	in	ADP	IN	_	9	11	case	in	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	10	11	det	the	O
+remains	' '	remains	NOUN	NNS	Number=Ptan	11	2	obl	remains	O
+of	' '	of	ADP	IN	_	12	15	case	of	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	13	15	det	the	O
+sitting	' '	sitting	NOUN	NN	Number=Sing	14	15	compound	sitting	O
+room	''	room	NOUN	NN	Number=Sing	15	11	nmod	room	O
+,	' '	,	PUNCT	,	_	16	17	punct	,	O
+watching	' '	watch	VERB	VBG	Tense=Pres|VerbForm=Part	17	2	advcl	watching	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	17	obj	it	O
+on	' '	on	ADP	IN	_	19	21	case	on	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	20	21	det	the	O
+screen	' '	screen	NOUN	NN	Number=Sing	21	17	obl	screen	O
+and	' '	and	CCONJ	CC	_	22	23	cc	and	O
+wondering	' '	wonder	VERB	VBG	Tense=Pres|VerbForm=Part	23	2	conj	wondering	O
+how	''	how	ADV	WRB	PronType=Int	24	23	obj	how	O
+,	' '	,	PUNCT	,	_	25	24	punct	,	O
+just	' '	just	ADV	RB	_	26	27	advmod	just	O
+how	' '	how	ADV	WRB	PronType=Int	27	30	advmod	how	O
+anyone	' '	anyone	PRON	NN	Number=Sing|PronType=Ind	28	30	nsubj	anyone	O
+could	' '	could	AUX	MD	VerbForm=Fin	29	30	aux	could	O
+look	' '	look	VERB	VB	VerbForm=Inf	30	24	advcl:relcl	look	O
+at	' '	at	ADP	IN	_	31	34	case	at	O
+our	' '	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	32	34	nmod:poss	our	O
+little	' '	little	ADJ	JJ	Degree=Pos	33	34	amod	little	O
+flat	' '	flat	NOUN	NN	Number=Sing	34	30	obl	flat	O
+and	' '	and	CCONJ	CC	_	35	40	cc	and	O
+our	' '	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	36	40	nmod:poss	our	O
+terrible	''	terrible	ADJ	JJ	Degree=Pos	37	40	amod	terrible	O
+,	' '	,	PUNCT	,	_	38	37	punct	,	O
+manky	' '	manky	ADJ	JJ	Degree=Pos	39	40	amod	manky	O
+estate	' '	estate	NOUN	NN	Number=Sing	40	34	conj	estate	O
+and	' '	and	CCONJ	CC	_	41	42	cc	and	O
+mistake	' '	mistake	VERB	VB	VerbForm=Inf	42	30	conj	mistake	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	43	42	obj	it	O
+for	' '	for	ADP	IN	_	44	46	case	for	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	45	46	det	the	O
+home	' '	home	NOUN	NN	Number=Sing	46	42	obl	home	O
+of	' '	of	ADP	IN	_	47	51	case	of	O
+an	' '	a	DET	DT	Definite=Ind|PronType=Art	48	51	det	an	O
+organized	' '	organize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	49	51	amod	organized	O
+crime	' '	crime	NOUN	NN	Number=Sing	50	51	compound	crime	O
+kingpin	''	kingpin	NOUN	NN	Number=Sing	51	46	nmod	kingpin	O
+.	'  '	.	PUNCT	.	_	52	2	punct	.	O
+</s>
+<s>
+They	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	2	nsubj	They	O
+took	' '	take	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	0	root	took	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	3	4	det	the	O
+printer	' '	printer	NOUN	NN	Number=Sing	4	2	obj	printer	O
+away	''	away	ADV	RB	_	5	2	advmod	away	O
+,	' '	,	PUNCT	,	_	6	7	punct	,	O
+of	' '	of	ADP	IN	ExtPos=ADV	7	2	advmod	of	O
+course	''	course	NOUN	NN	Number=Sing	8	7	fixed	course	O
+,	' '	,	PUNCT	,	_	9	11	punct	,	O
+and	' '	and	CCONJ	CC	_	10	11	cc	and	O
+displayed	' '	display	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	2	conj	displayed	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	11	obj	it	O
+like	' '	like	ADP	IN	_	13	15	case	like	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	14	15	det	a	O
+trophy	' '	trophy	NOUN	NN	Number=Sing	15	11	obl	trophy	O
+for	' '	for	ADP	IN	_	16	18	case	for	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	17	18	det	the	O
+newsies	''	newsies	NOUN	NNS	Number=Plur	18	15	nmod	newsies	O
+.	'  '	.	PUNCT	.	_	19	2	punct	.	O
+</s>
+<s>
+It	''	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	4	nmod:poss	Its	O
+s	' '	's	PART	POS	Typo=Yes	2	1	case	Its	O
+little	' '	little	ADJ	JJ	Degree=Pos	3	4	amod	little	O
+shrine	' '	shrine	NOUN	NN	Number=Sing	4	8	nsubj	shrine	O
+in	' '	in	ADP	IN	_	5	7	case	in	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	6	7	det	the	O
+kitchenette	' '	kitchenette	NOUN	NN	Number=Sing	7	4	nmod	kitchenette	O
+seemed	' '	seem	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	0	root	seemed	O
+horribly	' '	horribly	ADV	RB	_	9	10	advmod	horribly	O
+empty	''	empty	ADJ	JJ	Degree=Pos	10	8	xcomp	empty	O
+.	'  '	.	PUNCT	.	_	11	8	punct	.	O
+</s>
+<s>
+When	' '	when	ADV	WRB	PronType=Int	1	3	advmod	When	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	3	nsubj	I	O
+roused	' '	rouse	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	18	advcl	roused	O
+myself	' '	myself	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	4	3	obj	myself	O
+and	' '	and	CCONJ	CC	_	5	6	cc	and	O
+picked	' '	pick	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	6	3	conj	picked	O
+up	' '	up	ADP	RP	_	7	6	compound:prt	up	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	8	9	det	the	O
+flat	' '	flat	NOUN	NN	Number=Sing	9	6	obj	flat	O
+and	' '	and	CCONJ	CC	_	10	11	cc	and	O
+rescued	' '	rescue	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	6	conj	rescued	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	12	15	nmod:poss	my	O
+poor	' '	poor	ADJ	JJ	Degree=Pos	13	15	amod	poor	O
+peeping	' '	peeping	NOUN	NN	Number=Sing	14	15	compound	peeping	O
+tweetybird	''	tweetybird	NOUN	NN	Number=Sing	15	11	obj	tweetybird	O
+,	' '	,	PUNCT	,	_	16	3	punct	,	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	18	nsubj	I	O
+put	' '	put	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	0	root	put	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	19	20	det	a	O
+blender	' '	blender	NOUN	NN	Number=Sing	20	18	obj	blender	O
+there	''	there	ADV	RB	PronType=Dem	21	18	advmod	there	O
+.	'  '	.	PUNCT	.	_	22	18	punct	.	O
+</s>
+<s>
+It	' '	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	3	nsubj:pass	It	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	3	aux:pass	was	O
+made	' '	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	0	root	made	O
+out	' '	out	ADP	IN	_	4	7	case	out	O
+of	' '	of	ADP	IN	_	5	4	fixed	of	O
+printed	' '	print	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	7	amod	printed	O
+parts	''	part	NOUN	NNS	Number=Plur	7	3	obl	parts	O
+,	' '	,	PUNCT	,	_	8	13	punct	,	O
+so	' '	so	ADV	RB	_	9	13	advmod	so	O
+it	' '	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	13	nsubj	it	O
+would	' '	would	AUX	MD	VerbForm=Fin	11	13	aux	would	O
+only	' '	only	ADV	RB	_	12	13	advmod	only	O
+last	' '	last	VERB	VB	VerbForm=Inf	13	3	parataxis	last	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	14	15	det	a	O
+month	' '	month	NOUN	NN	Number=Sing	15	13	obl:unmarked	month	O
+before	' '	before	SCONJ	IN	_	16	19	mark	before	O
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	19	nsubj	I'd	O
+'d	' '	would	AUX	MD	VerbForm=Fin	18	19	aux	I'd	O
+need	' '	need	VERB	VB	VerbForm=Inf	19	13	advcl	need	O
+to	' '	to	PART	TO	_	20	21	mark	to	O
+print	' '	print	VERB	VB	VerbForm=Inf	21	19	xcomp	print	O
+new	' '	new	ADJ	JJ	Degree=Pos	22	23	amod	new	O
+bearings	' '	bearing	NOUN	NNS	Number=Plur	23	21	obj	bearings	O
+and	' '	and	CCONJ	CC	_	24	27	cc	and	O
+other	' '	other	ADJ	JJ	Degree=Pos	25	27	amod	other	O
+moving	' '	moving	NOUN	NN	Number=Sing	26	27	compound	moving	O
+parts	''	part	NOUN	NNS	Number=Plur	27	23	conj	parts	O
+.	'  '	.	PUNCT	.	_	28	3	punct	.	O
+</s>
+<s>
+Back	' '	back	ADV	RB	_	1	2	advmod	Back	O
+then	''	then	ADV	RB	PronType=Dem	2	6	advmod	then	O
+,	' '	,	PUNCT	,	_	3	2	punct	,	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	6	nsubj	I	O
+could	' '	could	AUX	MD	VerbForm=Fin	5	6	aux	could	O
+take	' '	take	VERB	VB	VerbForm=Inf	6	0	root	take	O
+apart	' '	apart	ADV	RB	_	7	6	advmod	apart	O
+and	' '	and	CCONJ	CC	_	8	9	cc	and	O
+reassemble	' '	reassemble	VERB	VB	VerbForm=Inf	9	6	conj	reassemble	O
+anything	' '	anything	PRON	NN	Number=Sing|PronType=Ind	10	9	obj	anything	O
+that	' '	that	PRON	WDT	PronType=Rel	11	14	nsubj:pass	that	O
+could	' '	could	AUX	MD	VerbForm=Fin	12	14	aux	could	O
+be	' '	be	AUX	VB	VerbForm=Inf	13	14	aux:pass	be	O
+printed	''	print	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	10	acl:relcl	printed	O
+.	''	.	PUNCT	.	_	15	6	punct	.	O
+</s>
+</p>
+<p>
+<s>
+By	' '	by	ADP	IN	_	1	3	case	By	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	2	3	det	the	O
+time	' '	time	NOUN	NN	Number=Sing	3	10	obl	time	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	5	nsubj	I	O
+turned	' '	turn	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	3	acl:relcl	turned	O
+18	''	18	NUM	CD	NumForm=Digit|NumType=Card	6	5	obj	18	S-DATE
+,	' '	,	PUNCT	,	_	7	3	punct	,	O
+they	' '	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	10	nsubj	they	O
+were	' '	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	10	cop	were	O
+ready	' '	ready	ADJ	JJ	Degree=Pos	10	0	root	ready	O
+to	' '	to	PART	TO	_	11	12	mark	to	O
+let	' '	let	VERB	VB	VerbForm=Inf	12	10	xcomp	let	O
+Da	' '	Da	PROPN	NNP	Number=Sing	13	12	obj	Da	S-PERSON
+out	' '	out	ADP	IN	_	14	16	case	out	O
+of	' '	of	ADP	IN	_	15	16	case	of	O
+prison	''	prison	NOUN	NN	Number=Sing	16	12	obl	prison	O
+.	'  '	.	PUNCT	.	_	17	10	punct	.	O
+</s>
+<s>
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	3	nsubj	I'd	S-PERSON
+'d	' '	would	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	3	aux	I'd	S-PERSON
+visited	' '	visit	VERB	VBN	Tense=Past|VerbForm=Part	3	0	root	visited	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	3	obj	him	O
+three	' '	three	NUM	CD	NumForm=Word|NumType=Card	5	6	nummod	three	S-CARDINAL
+times	' '	time	NOUN	NNS	Number=Plur	6	3	obl:unmarked	times	O
+--	' '	--	PUNCT	,	_	7	11	punct	--	O
+on	' '	on	ADP	IN	_	8	11	case	on	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	11	nmod:poss	my	O
+tenth	' '	tenth	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	11	amod	tenth	S-ORDINAL
+birthday	''	birthday	NOUN	NN	Number=Sing	11	3	obl	birthday	O
+,	' '	,	PUNCT	,	_	12	15	punct	,	O
+on	' '	on	ADP	IN	_	13	15	case	on	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	15	nmod:poss	his	O
+fiftieth	''	fiftieth	NOUN	NN	Number=Sing	15	3	obl	fiftieth	S-DATE
+,	' '	,	PUNCT	,	_	16	20	punct	,	O
+and	' '	and	CCONJ	CC	_	17	20	cc	and	O
+when	' '	when	ADV	WRB	PronType=Int	18	20	advmod	when	O
+Ma	' '	ma	PROPN	NNP	Number=Sing	19	20	nsubj	Ma	S-PERSON
+died	''	die	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	15	conj	died	O
+.	'  '	.	PUNCT	.	_	21	3	punct	.	O
+</s>
+<s>
+It	' '	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	5	nsubj	It	O
+had	' '	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	5	aux	had	O
+been	' '	be	AUX	VBN	Tense=Past|VerbForm=Part	3	5	cop	been	O
+two	' '	two	NUM	CD	NumForm=Word|NumType=Card	4	5	nummod	two	B-DATE
+years	' '	year	NOUN	NNS	Number=Plur	5	0	root	years	E-DATE
+since	' '	since	SCONJ	IN	_	6	10	mark	since	O
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	10	nsubj	I'd	S-PERSON
+'d	' '	would	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	10	aux	I'd	S-PERSON
+last	' '	last	ADV	RB	_	9	10	advmod	last	O
+seen	' '	see	VERB	VBN	Tense=Past|VerbForm=Part	10	5	advcl	seen	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	10	obj	him	O
+and	' '	and	CCONJ	CC	_	12	17	cc	and	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	17	nsubj	he	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	17	cop	was	O
+in	' '	in	ADP	IN	_	15	17	case	in	O
+bad	' '	bad	ADJ	JJ	Degree=Pos	16	17	amod	bad	O
+shape	''	shape	NOUN	NN	Number=Sing	17	5	conj	shape	O
+.	'  '	.	PUNCT	.	_	18	5	punct	.	O
+</s>
+<s>
+A	' '	a	DET	DT	Definite=Ind|PronType=Art	1	3	det	A	O
+prison	' '	prison	NOUN	NN	Number=Sing	2	3	compound	prison	O
+fight	' '	fight	NOUN	NN	Number=Sing	3	5	nsubj	fight	O
+had	' '	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	5	aux	had	O
+left	' '	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	0	root	left	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	5	obj	him	O
+with	' '	with	ADP	IN	_	7	9	case	with	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	8	9	det	a	O
+limp	''	limp	NOUN	NN	Number=Sing	9	5	obl	limp	O
+,	' '	,	PUNCT	,	_	10	13	punct	,	O
+and	' '	and	CCONJ	CC	_	11	13	cc	and	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	13	nsubj	he	O
+looked	' '	look	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	5	conj	looked	O
+over	' '	over	ADP	IN	_	14	16	case	over	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	16	nmod:poss	his	O
+shoulder	' '	shoulder	NOUN	NN	Number=Sing	16	13	obl	shoulder	O
+so	' '	so	ADV	RB	_	17	18	advmod	so	O
+often	' '	often	ADV	RB	_	18	13	advmod	often	O
+it	' '	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	23	nsubj:outer	it	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	23	cop	was	O
+like	' '	like	SCONJ	IN	_	21	23	mark	like	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	23	nsubj	he	O
+had	' '	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	13	parataxis	had	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	24	25	det	a	O
+tic	''	tic	NOUN	NN	Number=Sing	25	23	obj	tic	O
+.	'  '	.	PUNCT	.	_	26	5	punct	.	O
+</s>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	3	nsubj:pass	I	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	3	aux:pass	was	O
+embarrassed	' '	embarrass	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	0	root	embarrassed	O
+when	' '	when	ADV	WRB	PronType=Int	4	7	advmod	when	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	5	6	det	the	O
+minicab	' '	minicab	NOUN	NN	Number=Sing	6	7	nsubj	minicab	O
+dropped	' '	drop	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	3	advcl	dropped	O
+us	' '	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	7	obj	us	O
+off	' '	off	ADP	RP	_	9	7	compound:prt	off	O
+in	' '	in	ADP	IN	_	10	11	case	in	O
+front	' '	front	NOUN	NN	Number=Sing	11	7	obl	front	O
+of	' '	of	ADP	IN	_	12	14	case	of	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	13	14	det	the	O
+estate	''	estate	NOUN	NN	Number=Sing	14	11	nmod	estate	O
+,	' '	,	PUNCT	,	_	15	17	punct	,	O
+and	' '	and	CCONJ	CC	_	16	17	cc	and	O
+tried	' '	try	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	3	conj	tried	O
+to	' '	to	PART	TO	_	18	19	mark	to	O
+keep	' '	keep	VERB	VB	VerbForm=Inf	19	17	xcomp	keep	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	20	21	nmod:poss	my	O
+distance	' '	distance	NOUN	NN	Number=Sing	21	19	obj	distance	O
+from	' '	from	ADP	IN	_	22	27	case	from	O
+this	' '	this	DET	DT	Number=Sing|PronType=Dem	23	27	det	this	O
+ruined	''	ruin	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	24	27	amod	ruined	O
+,	' '	,	PUNCT	,	_	25	24	punct	,	O
+limping	' '	limp	VERB	VBG	VerbForm=Part	26	27	amod	limping	O
+skeleton	' '	skeleton	NOUN	NN	Number=Sing	27	19	obl	skeleton	O
+as	' '	as	SCONJ	IN	_	28	30	mark	as	O
+we	' '	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	30	nsubj	we	O
+went	' '	go	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	30	19	advcl	went	O
+inside	' '	inside	ADV	RB	_	31	30	advmod	inside	O
+and	' '	and	CCONJ	CC	_	32	35	cc	and	O
+up	' '	up	ADP	IN	_	33	35	case	up	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	34	35	det	the	O
+stairs	''	stair	NOUN	NNS	Number=Plur	35	30	conj	stairs	O
+.	''	.	PUNCT	.	_	36	3	punct	.	O
+</s>
+</p>
+<p>
+<s>
+"	''	"	PUNCT	``	_	1	2	punct	"	O
+Lanie	''	Lanie	PROPN	NNP	Number=Sing	2	6	ccomp	Lanie	S-PERSON
+,	''	,	PUNCT	,	_	3	2	punct	,	O
+"	' '	"	PUNCT	''	_	4	2	punct	"	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	6	nsubj	he	O
+said	''	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	0	root	said	O
+,	' '	,	PUNCT	,	_	7	10	punct	,	O
+as	' '	as	SCONJ	IN	_	8	10	mark	as	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	10	nsubj	he	O
+sat	' '	sit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	6	advcl	sat	O
+me	' '	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	10	obj	me	O
+down	''	down	ADP	RP	_	12	10	compound:prt	down	O
+.	'  '	.	PUNCT	.	_	13	6	punct	.	O
+</s>
+<s>
+"	''	"	PUNCT	``	_	1	6	punct	"	O
+You	''	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	6	nsubj	You're	O
+'re	' '	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	6	cop	You're	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	4	6	det	a	O
+smart	' '	smart	ADJ	JJ	Degree=Pos	5	6	amod	smart	O
+girl	''	girl	NOUN	NN	Number=Sing	6	0	root	girl	O
+,	' '	,	PUNCT	,	_	7	9	punct	,	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	9	nsubj	I	O
+know	' '	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	6	parataxis	know	O
+that	''	that	PRON	DT	Number=Sing|PronType=Dem	10	9	obj	that	O
+.	' '	.	PUNCT	.	_	11	6	punct	.	O
+</s>
+<s>
+You	' '	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	4	nsubj	You	O
+would	''	would	AUX	MD	VerbForm=Fin	2	4	aux	wouldn't	O
+n't	' '	not	PART	RB	Polarity=Neg	3	4	advmod	wouldn't	O
+know	' '	know	VERB	VB	VerbForm=Inf	4	0	root	know	O
+where	' '	where	ADV	WRB	PronType=Int	5	10	advmod	where	O
+your	' '	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	8	nmod:poss	your	O
+old	' '	old	ADJ	JJ	Degree=Pos	7	8	amod	old	O
+Da	' '	Da	NOUN	NN	Number=Sing	8	10	nsubj	Da	S-PERSON
+could	' '	could	AUX	MD	VerbForm=Fin	9	10	aux	could	O
+get	' '	get	VERB	VB	VerbForm=Inf	10	4	ccomp	get	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	11	12	det	a	O
+printer	' '	printer	NOUN	NN	Number=Sing	12	10	obj	printer	O
+and	' '	and	CCONJ	CC	_	13	15	cc	and	O
+some	' '	some	DET	DT	PronType=Ind	14	15	det	some	O
+goop	''	goop	NOUN	NN	Number=Sing	15	12	conj	goop	O
+?	''	?	PUNCT	.	_	16	4	punct	?	O
+"	''	"	PUNCT	''	_	17	4	punct	"	O
+</s>
+</p>
+<p>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	2	nsubj	I	O
+squeezed	' '	squeeze	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	0	root	squeezed	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	4	nmod:poss	my	O
+hands	' '	hand	NOUN	NNS	Number=Plur	4	2	obj	hands	O
+into	' '	into	ADP	IN	_	5	6	case	into	O
+fists	' '	fist	NOUN	NNS	Number=Plur	6	2	obl	fists	O
+so	' '	so	ADV	RB	_	7	8	advmod	so	O
+tight	' '	tight	ADJ	JJ	Degree=Pos	8	2	advmod	tight	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	10	nmod:poss	my	O
+fingernails	' '	fingernail	NOUN	NNS	Number=Plur	10	11	nsubj	fingernails	O
+cut	' '	cut	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	8	advcl	cut	O
+into	' '	into	ADP	IN	_	12	14	case	into	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	13	14	nmod:poss	my	O
+palms	''	palm	NOUN	NNS	Number=Plur	14	11	obl	palms	O
+.	'  '	.	PUNCT	.	_	15	2	punct	.	O
+</s>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	2	nsubj	I	O
+closed	' '	close	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	0	root	closed	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	4	nmod:poss	my	O
+eyes	''	eye	NOUN	NNS	Number=Plur	4	2	obj	eyes	O
+.	'  '	.	PUNCT	.	_	5	2	punct	.	O
+</s>
+<s>
+"	''	"	PUNCT	``	_	1	6	punct	"	O
+You	''	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	6	nsubj	You've	S-PERSON
+'ve	' '	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	6	aux	You've	S-PERSON
+been	' '	be	AUX	VBN	Tense=Past|VerbForm=Part	4	6	cop	been	O
+in	' '	in	ADP	IN	_	5	6	case	in	O
+prison	' '	prison	NOUN	NN	Number=Sing	6	0	root	prison	O
+for	' '	for	ADP	IN	_	7	9	case	for	O
+ten	' '	ten	NUM	CD	NumForm=Word|NumType=Card	8	9	nummod	ten	B-DATE
+years	''	year	NOUN	NNS	Number=Plur	9	6	obl	years	E-DATE
+,	' '	,	PUNCT	,	_	10	11	punct	,	O
+Da.	' '	Da.	PROPN	NNP	Number=Sing	11	6	vocative	Da.	B-PERSON
+Ten	''	ten	NUM	CD	NumForm=Word|NumType=Card	12	11	dep	Ten	E-PERSON
+.	'  '	.	PUNCT	.	_	13	6	punct	.	O
+</s>
+<s>
+Years	''	year	NOUN	NNS	Number=Plur	1	0	root	Years	O
+.	'  '	.	PUNCT	.	_	2	1	punct	.	O
+</s>
+<s>
+You	''	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	3	nsubj	You're	O
+'re	' '	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	3	aux	You're	O
+going	' '	go	VERB	VBG	Tense=Pres|VerbForm=Part	3	0	root	going	O
+to	' '	to	PART	TO	_	4	5	mark	to	O
+risk	' '	risk	VERB	VB	VerbForm=Inf	5	3	xcomp	risk	O
+another	' '	another	DET	DT	PronType=Ind	6	8	det	another	B-DATE
+ten	' '	ten	NUM	CD	NumForm=Word|NumType=Card	7	8	nummod	ten	I-DATE
+years	' '	year	NOUN	NNS	Number=Plur	8	5	obj	years	E-DATE
+to	' '	to	PART	TO	_	9	10	mark	to	O
+print	' '	print	VERB	VB	VerbForm=Inf	10	5	advcl	print	O
+out	' '	out	ADP	RP	_	11	10	compound:prt	out	O
+more	' '	more	ADJ	JJR	Degree=Cmp	12	13	amod	more	O
+blenders	' '	blender	NOUN	NNS	Number=Plur	13	10	obj	blenders	O
+and	' '	and	CCONJ	CC	_	14	15	cc	and	O
+pharma	''	pharma	NOUN	NN	Number=Sing	15	13	conj	pharma	O
+,	' '	,	PUNCT	,	_	16	18	punct	,	O
+more	' '	more	ADJ	JJR	Degree=Cmp	17	18	amod	more	O
+laptops	' '	laptop	NOUN	NNS	Number=Plur	18	13	conj	laptops	O
+and	' '	and	CCONJ	CC	_	19	21	cc	and	O
+designer	' '	designer	NOUN	NN	Number=Sing	20	21	compound	designer	O
+hats	''	hat	NOUN	NNS	Number=Plur	21	13	conj	hats	O
+?	''	?	PUNCT	.	_	22	3	punct	?	O
+"	''	"	PUNCT	''	_	23	3	punct	"	O
+</s>
+</p>
+<p>
+<s>
+He	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	2	nsubj	He	O
+grinned	''	grin	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	0	root	grinned	O
+.	'  '	.	PUNCT	.	_	3	2	punct	.	O
+</s>
+<s>
+"	''	"	PUNCT	``	_	1	5	punct	"	O
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	5	nsubj	I'm	O
+'m	' '	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	5	cop	I'm	O
+not	' '	not	PART	RB	Polarity=Neg	4	5	advmod	not	O
+stupid	''	stupid	ADJ	JJ	Degree=Pos	5	0	root	stupid	O
+,	' '	,	PUNCT	,	_	6	7	punct	,	O
+Lanie	''	Lanie	PROPN	NNP	Number=Sing	7	5	vocative	Lanie	S-PERSON
+.	'  '	.	PUNCT	.	_	8	5	punct	.	O
+</s>
+<s>
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	3	nsubj	I've	O
+'ve	' '	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	3	aux	I've	O
+learned	' '	learn	VERB	VBN	Tense=Past|VerbForm=Part	3	0	root	learned	O
+my	' '	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	5	nmod:poss	my	O
+lesson	''	lesson	NOUN	NN	Number=Sing	5	3	obj	lesson	O
+.	'  '	.	PUNCT	.	_	6	3	punct	.	O
+</s>
+<s>
+There	''	there	PRON	EX	_	1	2	expl	There's	O
+'s	' '	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	0	root	There's	O
+no	' '	no	DET	DT	PronType=Neg	3	4	det	no	O
+hat	' '	hat	NOUN	NN	Number=Sing	4	2	nsubj	hat	O
+or	' '	or	CCONJ	CC	_	5	6	cc	or	O
+laptop	' '	laptop	NOUN	NN	Number=Sing	6	4	conj	laptop	O
+that	''	that	PRON	WDT	PronType=Rel	7	9	nsubj	that's	O
+'s	' '	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	9	cop	that's	O
+worth	' '	worth	ADJ	JJ	Degree=Pos	9	4	acl:relcl	worth	O
+going	' '	go	VERB	VBG	VerbForm=Ger	10	9	xcomp	going	O
+to	' '	to	ADP	IN	_	11	12	case	to	O
+jail	' '	jail	NOUN	NN	Number=Sing	12	10	obl	jail	O
+for	''	for	ADP	IN	_	13	10	obl	for	O
+.	'  '	.	PUNCT	.	_	14	2	punct	.	O
+</s>
+<s>
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	4	nsubj	I'm	O
+'m	' '	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	4	aux	I'm	O
+not	' '	not	PART	RB	Polarity=Neg	3	4	advmod	not	O
+going	' '	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	0	root	going	O
+to	' '	to	PART	TO	_	5	6	mark	to	O
+print	' '	print	VERB	VB	VerbForm=Inf	6	4	xcomp	print	O
+none	' '	none	PRON	NN	Number=Sing|PronType=Neg	7	6	obj	none	O
+of	' '	of	ADP	IN	_	8	10	case	of	O
+that	' '	that	DET	DT	Number=Sing|PronType=Dem	9	10	det	that	O
+rubbish	''	rubbish	NOUN	NN	Number=Sing	10	7	nmod	rubbish	O
+,	' '	,	PUNCT	,	_	11	13	punct	,	O
+never	' '	never	ADV	RB	PronType=Neg	12	13	advmod	never	O
+again	''	again	ADV	RB	_	13	6	advmod	again	O
+.	''	.	PUNCT	.	_	14	4	punct	.	O
+"	' '	"	PUNCT	''	_	15	4	punct	"	O
+</s>
+<s>
+He	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	2	nsubj	He	O
+had	' '	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	0	root	had	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	3	4	det	a	O
+cup	' '	cup	NOUN	NN	Number=Sing	4	2	obj	cup	O
+of	' '	of	ADP	IN	_	5	6	case	of	O
+tea	''	tea	NOUN	NN	Number=Sing	6	4	nmod	tea	O
+,	' '	,	PUNCT	,	_	7	10	punct	,	O
+and	' '	and	CCONJ	CC	_	8	10	cc	and	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	10	nsubj	he	O
+drank	' '	drink	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	2	conj	drank	O
+it	' '	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	10	obj	it	O
+now	' '	now	ADV	RB	_	12	10	advmod	now	O
+like	' '	like	SCONJ	IN	_	13	16	mark	like	O
+it	' '	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	16	nsubj	it	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	16	cop	was	O
+whisky	''	whisky	NOUN	NN	Number=Sing	16	10	advcl	whisky	O
+,	' '	,	PUNCT	,	_	17	19	punct	,	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	18	19	det	a	O
+sip	' '	sip	NOUN	NN	Number=Sing	19	16	conj	sip	O
+and	' '	and	CCONJ	CC	_	20	26	cc	and	O
+then	' '	then	ADV	RB	PronType=Dem	21	26	advmod	then	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	22	26	det	a	O
+long	''	long	ADJ	JJ	Degree=Pos	23	26	amod	long	O
+,	' '	,	PUNCT	,	_	24	23	punct	,	O
+satisfied	' '	satisfied	ADJ	JJ	Degree=Pos	25	26	amod	satisfied	O
+exhalation	''	exhalation	NOUN	NN	Number=Sing	26	16	conj	exhalation	O
+.	'  '	.	PUNCT	.	_	27	2	punct	.	O
+</s>
+<s>
+He	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	2	nsubj	He	O
+closed	' '	close	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	0	root	closed	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	4	nmod:poss	his	O
+eyes	' '	eye	NOUN	NNS	Number=Plur	4	2	obj	eyes	O
+and	' '	and	CCONJ	CC	_	5	6	cc	and	O
+leaned	' '	learn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	2	conj	leaned	O
+back	' '	back	ADV	RB	_	7	6	advmod	back	O
+in	' '	in	ADP	IN	_	8	10	case	in	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	10	nmod:poss	his	O
+chair	''	chair	NOUN	NN	Number=Sing	10	6	obl	chair	O
+.	''	.	PUNCT	.	_	11	2	punct	.	O
+</s>
+</p>
+<p>
+<s>
+"	''	"	PUNCT	``	_	1	2	punct	"	O
+Come	' '	come	VERB	VB	Mood=Imp|VerbForm=Fin	2	0	root	Come	O
+here	''	here	ADV	RB	PronType=Dem	3	2	advmod	here	O
+,	' '	,	PUNCT	,	_	4	5	punct	,	O
+Lanie	''	Lanie	PROPN	NNP	Number=Sing	5	2	vocative	Lanie	S-PERSON
+,	' '	,	PUNCT	,	_	6	5	punct	,	O
+let	' '	let	VERB	VB	Mood=Imp|VerbForm=Fin	7	2	parataxis	let	O
+me	' '	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	7	obj	me	O
+whisper	' '	whisper	VERB	VB	VerbForm=Inf	9	7	xcomp	whisper	O
+in	' '	in	ADP	IN	_	10	12	case	in	O
+your	' '	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	11	12	nmod:poss	your	O
+ear	''	ear	NOUN	NN	Number=Sing	12	9	obl	ear	O
+.	'  '	.	PUNCT	.	_	13	2	punct	.	O
+</s>
+<s>
+Let	' '	let	VERB	VB	Mood=Imp|VerbForm=Fin	1	0	root	Let	O
+me	' '	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	1	obj	me	O
+tell	' '	tell	VERB	VB	VerbForm=Inf	3	1	xcomp	tell	O
+you	' '	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	3	iobj	you	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	5	6	det	the	O
+thing	' '	thing	NOUN	NN	Number=Sing	6	3	obj	thing	O
+that	' '	that	PRON	WDT	PronType=Rel	7	9	obj	that	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	9	nsubj	I	O
+decided	' '	decide	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	9	6	acl:relcl	decided	O
+while	' '	while	SCONJ	IN	_	10	12	mark	while	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	12	nsubj	I	O
+spent	' '	spend	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	9	advcl	spent	O
+ten	' '	ten	NUM	CD	NumForm=Word|NumType=Card	13	14	nummod	ten	B-DATE
+years	' '	year	NOUN	NNS	Number=Plur	14	12	obj	years	E-DATE
+in	' '	in	ADP	IN	_	15	16	case	in	O
+lockup	''	lockup	NOUN	NN	Number=Sing	16	12	obl	lockup	O
+.	'  '	.	PUNCT	.	_	17	1	punct	.	O
+</s>
+<s>
+Come	' '	come	VERB	VB	Mood=Imp|VerbForm=Fin	1	0	root	Come	O
+here	' '	here	ADV	RB	PronType=Dem	2	1	advmod	here	O
+and	' '	and	CCONJ	CC	_	3	4	cc	and	O
+listen	' '	listen	VERB	VB	Mood=Imp|VerbForm=Fin	4	1	conj	listen	O
+to	' '	to	ADP	IN	_	5	8	case	to	O
+your	' '	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	6	8	nmod:poss	your	O
+stupid	' '	stupid	ADJ	JJ	Degree=Pos	7	8	amod	stupid	O
+Da	''	Da	NOUN	NN	Number=Sing	8	4	obl	Da	S-PERSON
+.	''	.	PUNCT	.	_	9	1	punct	.	O
+"	''	"	PUNCT	''	_	10	1	punct	"	O
+</s>
+</p>
+<p>
+<s>
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	2	nsubj	I	O
+felt	' '	feel	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	0	root	felt	O
+a	' '	a	DET	DT	Definite=Ind|PronType=Art	3	5	det	a	O
+guilty	' '	guilty	ADJ	JJ	Degree=Pos	4	5	amod	guilty	O
+pang	' '	pang	NOUN	NN	Number=Sing	5	2	obj	pang	O
+about	' '	about	SCONJ	IN	_	6	7	mark	about	O
+ticking	' '	tick	VERB	VBG	VerbForm=Ger	7	2	advcl	ticking	O
+him	' '	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	7	obj	him	O
+off	''	off	ADP	RP	_	9	7	compound:prt	off	O
+.	'  '	.	PUNCT	.	_	10	2	punct	.	O
+</s>
+<s>
+He	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	5	nsubj	He	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	5	cop	was	O
+off	' '	off	ADP	IN	_	3	5	case	off	O
+his	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	5	nmod:poss	his	O
+rocker	''	rocker	NOUN	NN	Number=Sing	5	0	root	rocker	O
+,	' '	,	PUNCT	,	_	6	10	punct	,	O
+that	' '	that	PRON	DT	Number=Sing|PronType=Dem	7	8	det	that	O
+much	' '	much	ADJ	JJ	Degree=Pos	8	10	nsubj	much	O
+was	' '	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	10	cop	was	O
+clear	''	clear	ADJ	JJ	Degree=Pos	10	5	parataxis	clear	O
+.	'  '	.	PUNCT	.	_	11	5	punct	.	O
+</s>
+<s>
+God	' '	God	PROPN	NNP	Number=Sing	1	2	nsubj	God	O
+knew	' '	know	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	0	root	knew	O
+what	' '	what	PRON	WP	PronType=Rel	3	2	obj	what	O
+he	' '	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	5	nsubj	he	O
+went	' '	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	3	acl:relcl	went	O
+through	' '	through	ADP	IN	_	6	5	obl	through	O
+in	' '	in	ADP	IN	_	7	8	case	in	O
+prison	''	prison	NOUN	NN	Number=Sing	8	5	obl	prison	O
+.	'  '	.	PUNCT	.	_	9	2	punct	.	O
+</s>
+<s>
+"	''	"	PUNCT	``	_	1	2	punct	"	O
+What	''	what	PRON	WP	PronType=Int	2	8	ccomp	What	O
+,	' '	,	PUNCT	,	_	3	4	punct	,	O
+Da	''	Da	PROPN	NNP	Number=Sing	4	2	vocative	Da	S-PERSON
+?	''	?	PUNCT	.	_	5	2	punct	?	O
+"	' '	"	PUNCT	''	_	6	2	punct	"	O
+I	' '	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	8	nsubj	I	O
+said	''	say	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	0	root	said	O
+,	' '	,	PUNCT	,	_	9	10	punct	,	O
+leaning	' '	lean	VERB	VBG	Tense=Pres|VerbForm=Part	10	8	advcl	leaning	O
+in	' '	in	ADP	IN	_	11	12	case	in	O
+close	''	close	ADJ	JJ	Degree=Pos	12	10	obl	close	O
+.	''	.	PUNCT	.	_	13	8	punct	.	O
+</s>
+</p>
+<p>
+<s>
+"	''	"	PUNCT	``	_	1	6	punct	"	O
+Lanie	''	Lanie	PROPN	NNP	Number=Sing	2	6	vocative	Lanie	S-PERSON
+,	' '	,	PUNCT	,	_	3	2	punct	,	O
+I	''	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	6	nsubj	I'm	O
+'m	' '	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	6	aux	I'm	O
+going	' '	go	VERB	VBG	Tense=Pres|VerbForm=Part	6	0	root	going	O
+to	' '	to	PART	TO	_	7	8	mark	to	O
+print	' '	print	VERB	VB	VerbForm=Inf	8	6	xcomp	print	O
+more	' '	more	ADJ	JJR	Degree=Cmp	9	10	amod	more	O
+printers	''	printer	NOUN	NNS	Number=Plur	10	8	obj	printers	O
+.	'  '	.	PUNCT	.	_	11	6	punct	.	O
+</s>
+<s>
+Lots	' '	lot	NOUN	NNS	Number=Plur	1	3	compound	Lots	O
+more	' '	more	ADJ	JJR	Degree=Cmp	2	3	amod	more	O
+printers	''	printer	NOUN	NNS	Number=Plur	3	0	root	printers	O
+.	'  '	.	PUNCT	.	_	4	3	punct	.	O
+</s>
+<s>
+One	' '	one	NUM	CD	NumForm=Word|NumType=Card	1	0	root	One	S-CARDINAL
+for	' '	for	ADP	IN	_	2	3	case	for	O
+everyone	''	everyone	PRON	NN	Number=Sing|PronType=Tot	3	1	nmod	everyone	O
+.	'  '	.	PUNCT	.	_	4	1	punct	.	O
+</s>
+<s>
+That	''	that	PRON	DT	Number=Sing|PronType=Dem	1	3	nsubj	That's	O
+'s	' '	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	3	cop	That's	O
+worth	' '	worth	ADJ	JJ	Degree=Pos	3	0	root	worth	O
+going	' '	go	VERB	VBG	VerbForm=Ger	4	3	xcomp	going	O
+to	' '	to	ADP	IN	_	5	6	case	to	O
+jail	' '	jail	NOUN	NN	Number=Sing	6	4	obl	jail	O
+for	''	for	ADP	IN	_	7	4	obl	for	O
+.	'  '	.	PUNCT	.	_	8	3	punct	.	O
+</s>
+<s>
+That	''	that	PRON	DT	Number=Sing|PronType=Dem	1	3	nsubj	That's	O
+'s	' '	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	3	cop	That's	O
+worth	' '	worth	ADJ	JJ	Degree=Pos	3	0	root	worth	O
+anything	''	anything	PRON	NN	Number=Sing|PronType=Ind	4	3	obj	anything	O
+.	''	.	PUNCT	.	_	5	3	punct	.	O
+"	''	"	PUNCT	''	_	6	3	punct	"	O
+</s>
+</p>
+<p>
+<s>
+--------	''	--------	PUNCT	NFP	_	1	0	root	--------	O
+</s>
+</p>
+<p>
+<s>
+Cory	' '	Cory	PROPN	NNP	Number=Sing	1	4	nsubj	Cory	B-PERSON
+Doctorow	' '	Doctorow	PROPN	NNP	Number=Sing	2	1	flat	Doctorow	E-PERSON
+has	' '	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	4	aux	has	O
+spent	' '	spend	VERB	VBN	Tense=Past|VerbForm=Part	4	0	root	spent	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	5	8	det	the	B-DATE
+past	' '	past	ADJ	JJ	Degree=Pos	6	8	amod	past	I-DATE
+four	' '	four	NUM	CD	NumForm=Word|NumType=Card	7	8	nummod	four	I-DATE
+years	' '	year	NOUN	NNS	Number=Plur	8	4	obj	years	E-DATE
+at	' '	at	ADP	IN	_	9	13	case	at	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	10	13	det	the	B-ORG
+Electronic	' '	Electronic	ADJ	NNP	Degree=Pos	11	13	amod	Electronic	I-ORG
+Frontier	' '	Frontier	PROPN	NNP	Number=Sing	12	13	compound	Frontier	I-ORG
+Foundation	' '	Foundation	PROPN	NNP	Number=Sing	13	4	obl	Foundation	E-ORG
+(	''	(	PUNCT	-LRB-	_	14	15	punct	(	O
+www.eff.org),	' '	www.eff.org),	PROPN	NNP	Number=Sing	15	4	dep	www.eff.org),	O
+fighting	' '	fight	VERB	VBG	VerbForm=Ger	16	15	acl	fighting	O
+at	' '	at	ADP	IN	_	17	20	case	at	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	18	20	det	the	B-ORG
+United	' '	Unite	VERB	NNP	Tense=Past|VerbForm=Part	19	20	amod	United	I-ORG
+Nations	' '	Nation	PROPN	NNPS	Number=Plur	20	16	obl	Nations	E-ORG
+and	' '	and	CCONJ	CC	_	21	26	cc	and	O
+in	' '	in	ADP	IN	_	22	26	case	in	O
+tech	''	tech	NOUN	NN	Number=Sing	23	25	compound	tech	O
+-	''	-	PUNCT	HYPH	_	24	23	punct	-	O
+standards	' '	standard	NOUN	NNS	Number=Plur	25	26	compound	standards	O
+bodies	' '	body	NOUN	NNS	Number=Plur	26	20	conj	bodies	O
+to	' '	to	PART	TO	_	27	28	mark	to	O
+balance	' '	balance	VERB	VB	VerbForm=Inf	28	16	advcl	balance	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	29	30	det	the	O
+rights	' '	right	NOUN	NNS	Number=Plur	30	28	obj	rights	O
+of	' '	of	ADP	IN	_	31	35	case	of	O
+copyright	' '	copyright	NOUN	NN	Number=Sing	32	35	compound	copyright	O
+and	' '	and	CCONJ	CC	_	33	34	cc	and	O
+patent	' '	patent	NOUN	NN	Number=Sing	34	32	conj	patent	O
+holders	' '	holder	NOUN	NNS	Number=Plur	35	30	nmod	holders	O
+with	' '	with	ADP	IN	_	36	39	case	with	O
+the	' '	the	DET	DT	Definite=Def|PronType=Art	37	39	det	the	O
+public	' '	public	ADJ	JJ	Degree=Pos	38	39	amod	public	O
+interest	''	interest	NOUN	NN	Number=Sing	39	28	obl	interest	O
+.	'  '	.	PUNCT	.	_	40	4	punct	.	O
+</s>
+<s>
+His	' '	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	2	nmod:poss	His	O
+novels	' '	novel	NOUN	NNS	Number=Plur	2	5	nsubj:pass	novels	O
+can	' '	can	AUX	MD	VerbForm=Fin	3	5	aux	can	O
+be	' '	be	AUX	VB	VerbForm=Inf	4	5	aux:pass	be	O
+had	' '	have	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	0	root	had	O
+free	' '	free	ADJ	JJ	Degree=Pos	6	5	xcomp	free	O
+online	' '	online	ADV	RB	_	7	5	advmod	online	O
+at	' '	at	ADP	IN	_	8	9	case	at	O
+www.craphound.com.	''	www.craphound.com.	PROPN	ADD	_	9	5	obl	www.craphound.com.	O
+</s>
+</p>
+</doc>

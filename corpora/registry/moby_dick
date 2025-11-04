@@ -1,0 +1,46 @@
+MAINTAINER "your@yourdomain.com"
+INFO "Moby Dick"
+NAME "Moby Dick"
+PATH moby_dick
+ENCODING "UTF-8"
+LANGUAGE "English"
+
+PATH   '/corpora/moby_dick/indexed/'
+VERTICAL  '| cat /corpora/moby_dick/vertical/*'
+
+INFOHREF "https://www.gutenberg.org/ebooks/2701"
+TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
+
+ATTRIBUTE   word
+
+ATTRIBUTE	wsafter
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE	upos
+
+ATTRIBUTE   xpos
+
+ATTRIBUTE   features
+
+ATTRIBUTE	dep_id
+
+ATTRIBUTE	dep_head
+
+ATTRIBUTE	deprel
+
+ATTRIBUTE	idx
+
+ATTRIBUTE	token_text
+
+ATTRIBUTE	ner
+
+STRUCTURE doc
+
+STRUCTURE chapter {
+	ATTRIBUTE n
+}
+
+STRUCTURE p
+
+STRUCTURE s
