@@ -1,0 +1,44 @@
+MAINTAINER "your@yourdomain.com"
+INFO "Cory Doctorow"
+NAME "Cory Doctorow"
+PATH doctorow
+ENCODING "UTF-8"
+LANGUAGE "English"
+
+PATH   '/corpora/doctorow/indexed/'
+VERTICAL  '| cat /corpora/doctorow/vertical/*'
+
+INFOHREF "https://www.gutenberg.org/ebooks/2701"
+TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
+
+ATTRIBUTE   word
+
+ATTRIBUTE	wsafter
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE	upos
+
+ATTRIBUTE   xpos
+
+ATTRIBUTE   features
+
+ATTRIBUTE	dep_id
+
+ATTRIBUTE	dep_head
+
+ATTRIBUTE	deprel
+
+ATTRIBUTE	idx
+
+ATTRIBUTE	token_text
+
+ATTRIBUTE	ner
+
+STRUCTURE doc {
+	ATTRIBUTE file
+}
+
+STRUCTURE p
+
+STRUCTURE s

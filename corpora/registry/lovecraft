@@ -1,0 +1,44 @@
+MAINTAINER "your@yourdomain.com"
+INFO "HP Lovecraft"
+NAME "HP Lovecraft"
+PATH lovecraft
+ENCODING "UTF-8"
+LANGUAGE "English"
+
+PATH   '/corpora/lovecraft/indexed/'
+VERTICAL  '| cat /corpora/lovecraft/vertical/*'
+
+INFOHREF "https://www.gutenberg.org/ebooks/2701"
+TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
+
+ATTRIBUTE   word
+
+ATTRIBUTE	wsafter
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE	upos
+
+ATTRIBUTE   xpos
+
+ATTRIBUTE   features
+
+ATTRIBUTE	dep_id
+
+ATTRIBUTE	dep_head
+
+ATTRIBUTE	deprel
+
+ATTRIBUTE	idx
+
+ATTRIBUTE	token_text
+
+ATTRIBUTE	ner
+
+STRUCTURE doc {
+	ATTRIBUTE file
+}
+
+STRUCTURE p
+
+STRUCTURE s
