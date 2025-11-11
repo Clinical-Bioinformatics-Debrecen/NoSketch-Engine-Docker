@@ -1,0 +1,46 @@
+MAINTAINER "Gergely.Pethoe@sprachlit.uni-regensburg.de"
+INFO "Albucasis French"
+NAME "Albucasis ofr"
+PATH albucasis_ofr
+ENCODING "UTF-8"
+LANGUAGE "Old French"
+
+PATH   '/corpora/albucasis_ofr/indexed/'
+VERTICAL  '/corpora/albucasis_ofr/vertical/ofr_stanza_vertical.txt'
+
+ATTRIBUTE   word
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE   upos
+
+ATTRIBUTE   xpos
+
+ATTRIBUTE   feats
+
+ATTRIBUTE   head
+
+ATTRIBUTE   deprel
+
+ATTRIBUTE   lc {
+	LABEL	"word (lowercase)"
+	DYNAMIC  utf8lowercase
+	DYNLIB   internal
+	ARG1     "C"
+	FUNTYPE  s
+	FROMATTR word
+	TYPE     index
+	TRANSQUERY	yes
+}
+
+STRUCTURE s {
+	ATTRIBUTE id
+}
+
+ALIGNSTRUCT "s"
+
+ALIGNED "albucasis_eng,albucasis_lat,albucasis_occ"
+
+ALIGNDEF '/corpora/albucasis_ofr/noske_alignment_ofr_eng.txt,/corpora/albucasis_ofr/noske_alignment_ofr_lat.txt,/corpora/albucasis_ofr/noske_alignment_ofr_occ.txt'
+
+

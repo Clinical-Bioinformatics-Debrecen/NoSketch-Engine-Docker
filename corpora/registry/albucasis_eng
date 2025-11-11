@@ -1,0 +1,46 @@
+MAINTAINER "Gergely.Pethoe@sprachlit.uni-regensburg.de"
+INFO "Albucasis English"
+NAME "Albucasis eng"
+PATH albucasis_eng
+ENCODING "UTF-8"
+LANGUAGE "English"
+
+PATH   '/corpora/albucasis_eng/indexed/'
+VERTICAL  '/corpora/albucasis_eng/vertical/eng_stanza_vertical.txt'
+
+ATTRIBUTE   word
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE   upos
+
+ATTRIBUTE   xpos
+
+ATTRIBUTE   feats
+
+ATTRIBUTE   head
+
+ATTRIBUTE   deprel
+
+ATTRIBUTE   lc {
+	LABEL	"word (lowercase)"
+	DYNAMIC  utf8lowercase
+	DYNLIB   internal
+	ARG1     "C"
+	FUNTYPE  s
+	FROMATTR word
+	TYPE     index
+	TRANSQUERY	yes
+}
+
+STRUCTURE s {
+	ATTRIBUTE id
+}
+
+ALIGNSTRUCT "s"
+
+ALIGNED "albucasis_lat,albucasis_occ,albucasis_ofr"
+
+ALIGNDEF '/corpora/albucasis_eng/noske_alignment_eng_lat.txt,/corpora/albucasis_eng/noske_alignment_eng_occ.txt,/corpora/albucasis_eng/noske_alignment_eng_ofr.txt'
+
+

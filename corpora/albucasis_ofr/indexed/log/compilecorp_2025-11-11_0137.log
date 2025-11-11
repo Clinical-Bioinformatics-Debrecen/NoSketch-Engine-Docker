@@ -1,0 +1,85 @@
+Manatee version: open-2.225.8
+Reading corpus configuration...
+PATH=/corpora/albucasis_ofr/indexed/
+VERTICAL=/corpora/albucasis_ofr/vertical/ofr_vertical.txt
+WSDEF=
+WSHIST=
+SUBCDEF=
+WSBASE=
+WSATTR=
+WSTHES=
+WSMINHITS=
+WSOLDSCORES=
+ALIGNDEF=
+ALIGNED=
+TERMDEF=
+TERMBASE=
+REFCORPUS=
+ATTRLIST=word,lc
+DIACHRONIC=
+DIAPOSATTRS=
+SUBCBASE=/corpora/albucasis_ofr/indexed/subcorp/
+Vertical text will be read from /corpora/albucasis_ofr/vertical/ofr_vertical.txt
+Deleting corpus PATH directory...
+Compiling corpus...
+[20251111-01:37:15] Available memory 64348MB, estimated usage 49MB
+[20251111-01:37:15] Reading input file finished.
+[20251111-01:37:15] Closing structure s ...
+[20251111-01:37:15] lexicon (/corpora/albucasis_ofr/indexed/s.id) writing FSA...
+[20251111-01:37:15] Writing FSA finished
+[20251111-01:37:15]             ... finished.
+[20251111-01:37:15] Closing attribute /corpora/albucasis_ofr/indexed/word ...
+[20251111-01:37:15] lexicon (/corpora/albucasis_ofr/indexed/word) writing FSA...
+[20251111-01:37:15] Writing FSA finished
+[20251111-01:37:15]             ... finished.
+[20251111-01:37:15] Processed 94331 lines, 87089 positions.
+[20251111-01:37:15] Creating dynamic attribute lc
+[20251111-01:37:15] lexicon (/corpora/albucasis_ofr/indexed/lc) writing FSA...
+[20251111-01:37:15] Writing FSA finished
+[20251111-01:37:15] Creating regular expression optimization attribute lc
+[20251111-01:37:15] lexicon (/corpora/albucasis_ofr/indexed/lc.regex) writing FSA...
+[20251111-01:37:15] Writing FSA finished
+[20251111-01:37:15] Summary of errors encountered in the input file:
+[20251111-01:37:15] Only first 100 occurrences emitted, use -v to emit each occurrence.
+Compiling frequencies...
+Compiling arf for attribute word
+frq already compiled, skipping.
+0 %1 %1 %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14 %15 %16 %17 %18 %19 %20 %21 %22 %23 %24 %25 %26 %27 %28 %29 %30 %31 %32 %33 %34 %35 %36 %37 %38 %39 %40 %41 %42 %43 %44 %45 %46 %47 %48 %49 %50 %51 %52 %53 %54 %55 %56 %57 %58 %59 %60 %61 %62 %63 %64 %65 %66 %67 %68 %69 %70 %71 %72 %73 %74 %75 %76 %77 %78 %79 %80 %81 %82 %83 %84 %85 %86 %87 %88 %89 %90 %91 %92 %93 %94 %95 %96 %97 %98 %99 %100 %
+Compiling docf for attribute word
+No "doc" structure (DOCSTRUCTURE) available.            Can't compile document freqs for word.Compiling aldf for attribute word
+0 %1 %1 %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14 %15 %16 %17 %18 %19 %20 %21 %22 %23 %24 %25 %26 %27 %28 %29 %30 %31 %32 %33 %34 %35 %36 %37 %38 %39 %40 %41 %42 %43 %44 %45 %46 %47 %48 %49 %50 %51 %52 %53 %54 %55 %56 %57 %58 %59 %60 %61 %62 %63 %64 %65 %66 %67 %68 %69 %70 %71 %72 %73 %74 %75 %76 %77 %78 %79 %80 %81 %82 %83 %84 %85 %86 %87 %88 %89 %90 %91 %92 %93 %94 %95 %96 %97 %98 %99 %100 %
+Compiling arf for attribute lc
+frq already compiled, skipping.
+0 %1 %1 %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14 %15 %16 %17 %18 %19 %20 %21 %22 %23 %24 %25 %26 %27 %28 %29 %30 %31 %32 %33 %34 %35 %36 %37 %38 %39 %40 %41 %42 %43 %44 %45 %46 %47 %48 %49 %50 %51 %52 %53 %54 %55 %56 %57 %58 %59 %60 %61 %62 %63 %64 %65 %66 %67 %68 %69 %70 %71 %72 %73 %74 %75 %76 %77 %78 %79 %80 %81 %82 %83 %84 %85 %86 %87 %88 %89 %90 %91 %92 %93 %94 %95 %96 %97 %98 %99 %100 %
+Compiling docf for attribute lc
+No "doc" structure (DOCSTRUCTURE) available.            Can't compile document freqs for lc.Compiling aldf for attribute lc
+0 %1 %1 %2 %3 %4 %5 %6 %7 %8 %9 %10 %11 %12 %13 %14 %15 %16 %17 %18 %19 %20 %21 %22 %23 %24 %25 %26 %27 %28 %29 %30 %31 %32 %33 %34 %35 %36 %37 %38 %39 %40 %41 %42 %43 %44 %45 %46 %47 %48 %49 %50 %51 %52 %53 %54 %55 %56 %57 %58 %59 %60 %61 %62 %63 %64 %65 %66 %67 %68 %69 %70 %71 %72 %73 %74 %75 %76 %77 %78 %79 %80 %81 %82 %83 %84 %85 %86 %87 %88 %89 %90 %91 %92 %93 %94 %95 %96 %97 %98 %99 %100 %
+Compiling structure coverage...
+[20251111-01:37:16] mktokencov: opening corpus /corpora/registry/albucasis_ofr
+[20251111-01:37:16] mktokencov: output prefix is /corpora/albucasis_ofr/indexed/
+[20251111-01:37:16] mktokencov: preparing /corpora/albucasis_ofr/indexed/s.id.token
+[20251111-01:37:16] mktokencov: calculating token coverage for s
+[20251111-01:37:16] mktokencov: writing token coverage for s
+[20251111-01:37:16] mktokencov: finished writing token coverage for s
+No parallel corpora specified in ALIGNED; skipping alignment size computations...
+Sizes compiled
+SUBCDEF path not specified in the configuration file; skipping subcorpora...
+Compiling word sketches disabled; skipping...
+Compiling longest commonest match disabled; skipping...
+Compiling terms disabled; skipping...
+Compiling thesaurus disabled; skipping...
+Compiling histograms disabled; skipping...
+No parallel corpora specified in ALIGNED; skipping alignment...
+Compiling bilingual dictionaries disabled; skipping...
+Compiling bilingual terminology disabled; skipping...
+Compiling trends disabled; skipping...
+Checking corpus /corpora/registry/albucasis_ofr:
+ * registry file
+WARNING: Language 'Old French' is not supported and DEFAULTLOCALE is C
+WARNING: Missing or invalid DOCSTRUCTURE
+WARNING: INFOHREF not specified
+ * lexicon queries
+ * dynamic attributes
+ * word sketches
+ * sizes
+ * structure sanity

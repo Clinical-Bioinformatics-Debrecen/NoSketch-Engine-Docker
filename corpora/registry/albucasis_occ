@@ -1,0 +1,33 @@
+MAINTAINER "Gergely.Pethoe@sprachlit.uni-regensburg.de"
+INFO "Albucasis Occitan"
+NAME "Albucasis occ"
+PATH albucasis_occ
+ENCODING "UTF-8"
+LANGUAGE "Occitan"
+
+PATH   '/corpora/albucasis_occ/indexed/'
+VERTICAL  '/corpora/albucasis_occ/vertical/occ_vertical.txt'
+
+ATTRIBUTE   word
+
+ATTRIBUTE   lc {
+	LABEL	"word (lowercase)"
+	DYNAMIC  utf8lowercase
+	DYNLIB   internal
+	ARG1     "C"
+	FUNTYPE  s
+	FROMATTR word
+	TYPE     index
+	TRANSQUERY	yes
+}
+
+STRUCTURE s {
+	ATTRIBUTE id
+}
+
+ALIGNSTRUCT "s"
+
+ALIGNED "albucasis_eng,albucasis_lat,albucasis_ofr"
+
+ALIGNDEF '/corpora/albucasis_occ/noske_alignment_occ_eng.txt,/corpora/albucasis_occ/noske_alignment_occ_lat.txt,/corpora/albucasis_occ/noske_alignment_occ_ofr.txt'
+
