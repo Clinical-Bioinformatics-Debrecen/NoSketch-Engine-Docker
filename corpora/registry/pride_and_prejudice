@@ -1,0 +1,46 @@
+MAINTAINER "HUJIPH"
+INFO "Pride and Prejudice"
+NAME "Pride and Prejudice"
+PATH pride_and_prejudice
+ENCODING "UTF-8"
+LANGUAGE "English"
+
+PATH   '/corpora/pride_and_prejudice/indexed/'
+VERTICAL  '| cat /corpora/pride_and_prejudice/vertical/*'
+
+INFOHREF "https://www.gutenberg.org/files/1342/1342-0.txt"
+TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
+
+ATTRIBUTE   word
+
+ATTRIBUTE	wsafter
+
+ATTRIBUTE   lemma
+
+ATTRIBUTE	upos
+
+ATTRIBUTE   tag
+
+ATTRIBUTE   features
+
+ATTRIBUTE	dep_id
+
+ATTRIBUTE	dep_head
+
+ATTRIBUTE	deprel
+
+ATTRIBUTE	idx
+
+ATTRIBUTE	token_text
+
+ATTRIBUTE	ner
+
+STRUCTURE doc
+
+STRUCTURE chapter {
+	ATTRIBUTE n
+}
+
+STRUCTURE p
+
+STRUCTURE s
