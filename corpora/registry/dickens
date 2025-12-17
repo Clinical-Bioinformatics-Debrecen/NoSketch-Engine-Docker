@@ -1,21 +1,15 @@
 MAINTAINER "PELIFN"
-INFO "Charles Dickens"
 NAME "Charles Dickens"
 PATH dickens
 ENCODING "UTF-8"
 LANGUAGE "English"
 
 PATH   '/corpora/dickens/indexed/'
+
 VERTICAL  '| cat /corpora/dickens/vertical/*'
 
-INFO <div class="corpus-info">
-<h3>Charles Dickens books</h3>
-<ul>
-<li><a href="https://www.gutenberg.org/ebooks/98" target="_blank">A Tale of Two Cities</a></li>
-<li><a href="https://www.gutenberg.org/ebooks/1400" target="_blank">Great Expectations</a></li>
-<li><a href="https://www.gutenberg.org/ebooks/730" target="_blank">Oliver Twist</a></li>
-</ul>
-</div>
+INFO 'https://www.gutenberg.org/ebooks/98 https://www.gutenberg.org/ebooks/1400 https://www.gutenberg.org/ebooks/730'
+
 TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
 
 ATTRIBUTE   word
