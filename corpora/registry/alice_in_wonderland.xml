@@ -1,0 +1,22 @@
+<corpus>
+  <name>Alice in Wonderland</name>
+  <lang>en</lang>
+  <description>Alice in Wonderland corpus for assignment</description>
+  <maintainer>SOLONGONN</maintainer>
+
+  <vertical>
+    <file path="../alice_in_wonderland/alice_in_wonderland.vert" />
+    <columns>
+      <column name="word" attribute="word"/>
+      <column name="lemma" attribute="lemma"/>
+      <column name="upos" attribute="upos"/>
+      <column name="xpos" attribute="xpos"/>
+      <column name="head" attribute="head"/>
+      <column name="deprel" attribute="deprel"/>
+    </columns>
+    <structure>
+      <doc tag="doc"/>
+      <sentence tag="s"/>
+    </structure>
+  </vertical>
+</corpus>

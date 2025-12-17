@@ -9,6 +9,7 @@ PATH   '/corpora/dickens/indexed/'
 VERTICAL  '| cat /corpora/dickens/vertical/*'
 
 INFO 'https://www.gutenberg.org/ebooks/98 https://www.gutenberg.org/ebooks/1400 https://www.gutenberg.org/ebooks/730'
+INFOHREF "https://www.gutenberg.org/ebooks/98"
 
 TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
 
