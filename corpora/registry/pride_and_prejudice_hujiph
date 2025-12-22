@@ -5,8 +5,8 @@ PATH pride_and_prejudice
 ENCODING "UTF-8"
 LANGUAGE "English"
 
-PATH   '/corpora/pride_and_prejudice/indexed/'
-VERTICAL  '| cat /corpora/pride_and_prejudice/vertical/*'
+PATH   '/corpora/pride_and_prejudice_hujiph/indexed/'
+VERTICAL  '| cat /corpora/pride_and_prejudice_hujiph/vertical/*'
 
 INFOHREF "https://www.gutenberg.org/files/1342/1342-0.txt"
 TAGSETDOC "https://stanfordnlp.github.io/stanza/neural_pipeline.html"
